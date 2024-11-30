@@ -1,6 +1,7 @@
 ## Hi there 👋
-[![Rabiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabiulahsan)](https://github.com/rabiulahsan/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiulahsan&show_icons=true&count_private=true&theme=tokyonight) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiulahsan&layout=compact&theme=tokyonight)
 
 <!--
 **rabiulahsan/rabiulahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
