@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/Express-lightblue?style=for-the-badge&logo=express&logoColor=black" alt="Express.js" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Flask-lightblue?style=for-the-badge&logo=flask&logoColor=black" alt="Flask" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Framer-lightblue?style=for-the-badge&logo=framer&logoColor=black" alt="Framer_Motion" />
 </p>
 
 #### **Data Science & Machine Learning**
